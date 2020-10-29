@@ -1,7 +1,7 @@
 # Minesweeper-AI
 Alpha Sweeper - A Minesweeper AI
 # No Library Dependencies.
-# Only Used numpy,random and time libraries.
+# Only used numpy,random and time libraries.
 
 # Run the code in the terminal using the syntax "python AI_Minesweeper.py"
 
