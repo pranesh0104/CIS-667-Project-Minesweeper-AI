@@ -10,7 +10,7 @@ Run the code in the terminal using the syntax "python AI_Minesweeper.py"
 # Once a square is selected, the user can choose from 2 valid actions - Reveal, Flag. Reveal will display the value of the sqaure. The Flag option lets you flag/un-flag the         selected square
 # Game ends if a mine is revealed (You Lose) or once you have flagged all the mines and revealed all the other game squares (You Win).
 
-#Running AlphaSweeper_MCTS.py
+# Running AlphaSweeper_MCTS.py
 
 Run the code in the terminal using the syntax "python AlphaSweeper_MCTS.py"
 # Once the program is executed, the user will be prompted to input a custom grid size in the format "rowsize,columnsize"
