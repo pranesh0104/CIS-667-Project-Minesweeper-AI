@@ -17,6 +17,8 @@ Required Code Dependency - Minesweeper_game.py (Already impported in Code)
 Lused numpy, math, and random
 
 Run the code in the terminal using the syntax "python AlphaSweeper_MCTS.py"
+
+
 # Once the program is executed, the user will be prompted to input a custom grid size in the format "rowsize,columnsize"
 # Upon grid selection, the Tree search algorithm wlll make use of MCTS to perform specified number of rollouts
 # When an ideal action is chosen, user will be prompted to press "Enter" to continue the process or enter any other key to exit.
