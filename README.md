@@ -1,5 +1,5 @@
 
-# Alpha Sweeper - A Minesweeper AI
+# Running Text-based Minesweeper.py
 No Library Dependencies.
 Only used numpy,random and time libraries.
 
@@ -9,3 +9,10 @@ Run the code in the terminal using the syntax "python AI_Minesweeper.py"
 # Upon grid selection, the user will input row and column indices in the format "row,column" to select a game square where an action is to be performed. Also you can enter "-1,-1"   to exit to main menu.
 # Once a square is selected, the user can choose from 2 valid actions - Reveal, Flag. Reveal will display the value of the sqaure. The Flag option lets you flag/un-flag the         selected square
 # Game ends if a mine is revealed (You Lose) or once you have flagged all the mines and revealed all the other game squares (You Win).
+
+#Running AlphaSweeper_MCTS.py
+
+Run the code in the terminal using the syntax "python AlphaSweeper_MCTS.py"
+# Once the program is executed, the user will be prompted to input a custom grid size in the format "rowsize,columnsize"
+# Upon grid selection, the Tree search algorithm wlll make use of MCTS to perform specified number of rollouts
+# When an ideal action is chosen, user will be prompted to press "Enter" to continue the process or enter any other key to exit.
